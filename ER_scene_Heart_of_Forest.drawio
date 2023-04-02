@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-02T15:58:40.038Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 OPR/96.0.0.0" version="20.7.4" etag="ZyNvr-UaZ6jkKtlIzirX" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-02T16:12:40.414Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 OPR/96.0.0.0" version="20.7.4" etag="9SiDXskyKIDrNZ4S3gSO" type="github">
   <diagram id="iidOzPLA2baPN7cKgdQX" name="Страница 1">
-    <mxGraphModel dx="2322" dy="1277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1548" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,15 @@
         <mxCell id="1oXDSo7rBqSQlI5FCUK9-2" value="&lt;b&gt;Начальный экран&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Разрешение: 1920х1080&lt;br&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Элементы:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;ul&gt;&lt;li&gt;Меню игры&lt;/li&gt;&lt;li&gt;Заставка&lt;/li&gt;&lt;li&gt;музыка&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="80" y="600" width="260" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="1oXDSo7rBqSQlI5FCUK9-4" value="&lt;b&gt;Сцена первая&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: justify; line-height: 140%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Локация: Школа&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; line-height: 140%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Начало сцены, звук звонка.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; line-height: 140%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Музыка: Тема школьная&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; line-height: 140%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; line-height: 140%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Элементы:&lt;/span&gt;&lt;/div&gt;&lt;ul style=&quot;line-height: 140%;&quot;&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Задний фон класс&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Героиня Юки&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="1oXDSo7rBqSQlI5FCUK9-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="1oXDSo7rBqSQlI5FCUK9-4" target="1oXDSo7rBqSQlI5FCUK9-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1oXDSo7rBqSQlI5FCUK9-26" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;post-repl&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="1oXDSo7rBqSQlI5FCUK9-25">
+          <mxGeometry x="-0.2566" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1oXDSo7rBqSQlI5FCUK9-4" value="&lt;b&gt;Сцена первая&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: justify; line-height: 140%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Локация: Школа&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; line-height: 140%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Начало сцены, звук звонка, после звук гула и шума.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; line-height: 140%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Музыка: Тема школьная&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; line-height: 140%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; line-height: 140%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Элементы:&lt;/span&gt;&lt;/div&gt;&lt;ul style=&quot;line-height: 140%;&quot;&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Задний фон класс&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Героиня Юки&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="470" y="850" width="260" height="210" as="geometry" />
         </mxCell>
         <mxCell id="1oXDSo7rBqSQlI5FCUK9-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -73,6 +81,9 @@
         </mxCell>
         <mxCell id="1oXDSo7rBqSQlI5FCUK9-23" value="Шрифт T1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1070" y="120" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1oXDSo7rBqSQlI5FCUK9-24" value="&lt;b&gt;Сцена вторая&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: justify; line-height: 140%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Локация: Школа затемненная&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; line-height: 140%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Начало сцены: звук страшного пианино.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; line-height: 140%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Музыка: Тема таинственности.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; line-height: 140%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; line-height: 140%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Элементы:&lt;/span&gt;&lt;/div&gt;&lt;ul style=&quot;line-height: 140%;&quot;&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Задний фон класс затемненный&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Героиня Юки таинственно&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="840" y="850" width="260" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
