@@ -1,1 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-04-02T15:19:00.409Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 OPR/96.0.0.0" version="20.7.4" etag="JeY7shAR-0m2mSptvAc8" type="github"><diagram id="i-4bDoe5JLhptta-CAYg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-04-02T15:34:57.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 OPR/96.0.0.0" version="20.7.4" etag="6Onkj8m0dkZZzT-7kWOZ" type="github">
+  <diagram id="iidOzPLA2baPN7cKgdQX" name="Страница 1">
+    <mxGraphModel dx="1393" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1oXDSo7rBqSQlI5FCUK9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1oXDSo7rBqSQlI5FCUK9-2" target="1oXDSo7rBqSQlI5FCUK9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1oXDSo7rBqSQlI5FCUK9-7" value="Начать игру" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1oXDSo7rBqSQlI5FCUK9-6">
+          <mxGeometry x="-0.2289" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1oXDSo7rBqSQlI5FCUK9-2" value="&lt;b&gt;Начальный экран&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Разрешение: 1920х1080&lt;br&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Элементы:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;ul&gt;&lt;li&gt;Меню игры&lt;/li&gt;&lt;li&gt;Заставка&lt;/li&gt;&lt;li&gt;музыка&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="160" width="260" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="1oXDSo7rBqSQlI5FCUK9-4" value="&lt;b&gt;Сцена первая&lt;br&gt;&lt;/b&gt;&lt;br&gt;Локация: Школа&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="410" width="260" height="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
